@@ -42,6 +42,7 @@ echo 'Installing Postman'
 brew install --cask postman
 echo
 
+# !! TO FIX
 echo 'Installing Python'
 $(brew --prefix python)/libexec/bin
 python3 -m pip install --upgrade setuptools

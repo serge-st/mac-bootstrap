@@ -1,0 +1,22 @@
+bootstrap.sh: line 46: /opt/homebrew/opt/python@3.11/libexec/bin: No such file or directory
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: setuptools in /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/site-packages (58.0.4)
+Collecting setuptools
+  Downloading setuptools-68.0.0-py3-none-any.whl (804 kB)
+     |████████████████████████████████| 804 kB 2.1 MB/s 
+Installing collected packages: setuptools
+Successfully installed setuptools-68.0.0
+WARNING: You are using pip version 21.2.4; however, version 23.1.2 is available.
+You should consider upgrading via the '/Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip' command.
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pip in /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/site-packages (21.2.4)
+Collecting pip
+  Downloading pip-23.1.2-py3-none-any.whl (2.1 MB)
+     |████████████████████████████████| 2.1 MB 2.2 MB/s 
+Installing collected packages: pip
+  WARNING: The scripts pip, pip3, pip3.10 and pip3.9 are installed in '/Users/serge/Library/Python/3.9/bin' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed pip-23.1.2
+WARNING: You are using pip version 21.2.4; however, version 23.1.2 is available.
+You should consider upgrading via the '/Library/Developer/CommandLineTools/usr/bin/python3 -m pip install --upgrade pip' command.
+bootstrap.sh: line 49: pip: command not found
